@@ -7,8 +7,7 @@ Major: Computer and informations system
 
 
 ## 📄 Resume
-Download my resume:
-(./resume(1).pdf)
+[📥 Download my resume](./resume(1).pdf)
 
 
 ## 🔧 Skills
