@@ -1,5 +1,5 @@
 # Hi, I'm Aagat 👋
-<img src="images/pfp.jpg" width="180"/>
+<img src="pfp.jpg" width="180"/>
 # 🎓  I am a Freshman at Dakota State University  
 Major: Computer and informations system   
 **Interests:** Cybersecurity, AI, Machine Learning, Networking
