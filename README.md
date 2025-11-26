@@ -14,8 +14,8 @@ Major: Computer and informations system
 - Python  
 - Networking Basics (OSI, TCP/IP, VLAN, Routing, Wireshark)  
 - Cybersecurity Fundamentals  
-- Git & GitHub  
-- Windows & Linux basics  
+- Git & GitHub
+- Online marketing 
 
 ---
 
@@ -27,5 +27,5 @@ Major: Computer and informations system
 ---
 
 ## 📫 Contact
-**Email:** your-email  
-**LinkedIn:** your-link  
+**Email:** aagat.adhikari@torjans.dsu.edu 
+**LinkedIn:** https://www.linkedin.com/in/aagat-adhikari-a28144378 
